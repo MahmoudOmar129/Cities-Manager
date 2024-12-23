@@ -1,0 +1,15 @@
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\bin\Debug\net7.0\CitiesManager.Infrastructure.deps.json
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\bin\Debug\net7.0\CitiesManager.Infrastructure.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\bin\Debug\net7.0\CitiesManager.Infrastructure.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\bin\Debug\net7.0\CitiesManager.Core.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\bin\Debug\net7.0\CitiesManager.Core.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.csproj.AssemblyReference.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.AssemblyInfoInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.AssemblyInfo.cs
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.csproj.CopyComplete
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\refint\CitiesManager.Infrastructure.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\CitiesManager.Infrastructure.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\28. JWT with Web API\09. Authorization with JWT\CitiesManager.Infrastructure\obj\Debug\net7.0\ref\CitiesManager.Infrastructure.dll
